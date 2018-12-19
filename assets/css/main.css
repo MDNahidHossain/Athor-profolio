@@ -1,0 +1,207 @@
+/*-----------------------------------------------------------------------------------
+
+    Template Name: Template Name - Blog, News & Magazine HTML5 Template
+    Description: Template Name - Blog, News & Magazine HTML5 Template
+    Author: Nahid Hossain
+    Version: 1.0
+
+-----------------------------------------------------------------------------------
+
+    CSS INDEX
+    ====================
+
+    1.
+	2.
+    3.
+
+-----------------------------------------------------------------------------------*/
+
+.header-area {
+	background: #8aeee2;
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo img {
+	width: 8%;
+	border-radius: 50%;
+	height: 90px;
+	border: 4px solid #fff;
+}
+
+.main-menu {
+	text-align: center;
+}
+
+.main-menu {
+	
+}
+
+.main-menu ul{
+	
+}
+
+.main-menu ul li {
+	display: inline-block;
+	margin-left: 50px;
+}
+
+.main-menu ul li a {
+	color: #fff;
+	font-size: 17px;
+	display: block;
+	padding: 6px 0;
+}
+
+.slider-wrapper {
+	height: 84vh;
+	background-size: cover;
+	background-position: center;
+	background-position-y: 65%;
+}
+
+.slider-wrapper h2 {
+	font-size: 25px;
+	padding: 125px 258px;
+	color: #fff;
+	letter-spacing: 1px;
+	line-height: 30px;
+}
+
+.him-btn a {
+	color: #fff;
+	font-weight: 600;
+	padding: 10px 26px;
+	border: 2px solid aliceblue;
+}
+
+.him-btn a:hover {
+	background: #9df25a;
+}
+
+.about-section {
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.about-section h2 {
+	font-size: 32px;
+	font-weight: 600;
+}
+
+.about-left p {
+	font-size: 15px;
+	line-height: 27px;
+	padding: 0 30px;
+}
+
+.readmore-btn {
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
+
+.readmore-btn a {
+	background: #9df25a;
+	color: #fff;
+	padding: 10px 22px;
+	font-weight: 500;
+	border-radius: 5px;
+	font-size: 17px;
+}
+
+.protfoli-thumb {
+	margin-bottom: 20px;
+}
+
+.protfoli-thumb img {
+	width: 100%;
+	border-radius: 5px;
+}
+
+.name-bar input {
+	width: 400px;
+	padding: 0 30px;
+	height: 40px;
+	margin-top: 10px;
+}
+
+.name-bar {
+	margin-bottom: 30px;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: pink;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: pink;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: pink;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: pink;
+}
+.name-bar textarea {
+	margin-top: 10px;
+	color: pink;
+}
+
+.submit-content a {
+	background: #9df25a;
+	padding: 10px 50px;
+	color: pink;
+	border-radius: 5px;
+}
+
+.footer-area {
+	background: #9df25a;
+	margin-top: 50px;
+}
+
+.single-link h3 {
+	font-size: 50px;
+	font-weight: 700;
+	margin-top: 20px;
+}
+
+.single-link ul li {
+	margin-top: 10px;
+	margin-left: 14px;
+}
+
+.single-link ul li a {
+	font-size: 16px;
+	line-height: 45px;
+	color: #fff;
+	font-weight: 500;
+}
+
+.copy-right {
+	margin-top: 10px;
+}
+
+.copy-right span {
+	font-size: 12px;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
